@@ -15,3 +15,4 @@ exports.complaints = {}
 exports.notifications = []
 exit
 exit 1
+test
