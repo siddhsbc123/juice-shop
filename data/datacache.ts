@@ -13,3 +13,4 @@ exports.basketItems = {}
 exports.complaints = {}
 
 exports.notifications = []
+exit
